@@ -1,4 +1,4 @@
-<img src="/images/module_system_UserProfiles.png" alt="Logo generated using Bard Image Generator" title="module_system_UserProfile logo" width="500" height="500"/>
+<img src="/images/module_system_UserProfiles.png" alt="Logo generated using Bard Image Generator" title="module_system_UserProfile logo" width="250" height="250"/>
 
 # module_system_UserProfiles
 
